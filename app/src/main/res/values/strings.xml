@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">JChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_text_account">Аккаунт</string>
+    <string name="settings_default_number">+99899999999</string>
+    <string name="settings_label_phone_number">Нажмите, чтобы изменить номер телефона</string>
+    <string name="settings_default_login">username</string>
+    <string name="settings_label_login">Имя пользователя</string>
+    <string name="settings_default_bio">О себе</string>
+    <string name="settings_label_bio">Напишите немного о себе</string>
+    <string name="settings_menu_change_name">Изменить имя</string>
+    <string name="settings_menu_exit">Выход</string>
+    <string name="cd_register_image">register_image</string>
+    <string name="register_text_enter_code">Введите код</string>
+    <string name="register_text_we_send">Мы отправили SMS с кодом проверки на Вам телефон</string>
+    <string name="register_hint_default_code">- - - - - -</string>
+    <string name="register_title_your_phone">Ваш телефон</string>
+    <string name="register_toast_enter_phone">Введите номер телефона</string>
+    <string name="settings_hint_input_name">Имя</string>
+    <string name="settings_input_surname">Фамилия</string>
+    <string name="settings_toast_name_is_empty">Имя не может быть пустым</string>
+    <string name="toast_data_update">Данные обновлены</string>
+    <string name="settings_hint_input_username">Username</string>
+    <string name="setting_hint_bio">Bio</string>
+    <string name="toast_input_is_empty">Поле пустое</string>
+    <string name="temp_text_chats">Чаты</string>
+    <string name="title_contacts">Контакты</string>
+    <string name="chat_hint_message">Сообщение</string>
+    <string name="chat_recording_voice">Запись...</string>
+    <string name="todo">TODO</string>
+    <string name="clear_chat">Очистить чат</string>
+    <string name="delete_chat">Удалить чат</string>
+</resources>
