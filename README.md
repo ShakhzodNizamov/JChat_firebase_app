@@ -56,8 +56,8 @@ If you just want to install this application on your device, follow this instruc
 ## Screens
 
 
-<img src="screens/screens1" width="250"> <img src="screens/screens2" width="250">
+<img src="screens/screens1.jpg" width="250"> <img src="screens/screens2.jpg" width="250">
 
-<img src="screens/screens3" width="250"> <img src="screens/screens4" width="250">
+<img src="screens/screens3.jpg" width="250"> <img src="screens/screens4.jpg" width="250">
 
-<img src="screens/screens5" width="250"> <img src="screens/screens6" width="250">
+<img src="screens/screens5.jpg" width="250"> <img src="screens/screens6.jpg" width="250">
