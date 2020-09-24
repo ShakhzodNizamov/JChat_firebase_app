@@ -35,7 +35,7 @@ This application requires a network connection to work.
 If you just want to install this application on your device, follow this instructions.
 
 1. Download the .APK on this link : 
-`https://github.com/ShakhzodNizamov/JChat/blob/master/app_build_debug/app-debug.apk`
+`https://github.com/ShakhzodNizamov/JChat_firebase_app/blob/master/app/app_build_debug/app-debug.apk`
 
 2. Install this .APK on your device
 
@@ -46,7 +46,7 @@ If you just want to install this application on your device, follow this instruc
 
 
 
-1. Clone this project in your project folder : `git clone https://github.com/ShakhzodNizamov/JChat`
+1. Clone this project in your project folder : `git clone https://github.com/ShakhzodNizamov/JChat_firebase_app`
 
 2. Open this project thank your Android Studio and make one `Build Gradle Sync`
 
