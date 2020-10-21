@@ -14,7 +14,7 @@
     <string name="cd_register_image">register_image</string>
     <string name="register_text_enter_code">Введите код</string>
     <string name="register_text_we_send">Мы отправили SMS с кодом проверки на Вам телефон</string>
-    <string name="register_hint_default_code">- - - - - -</string>
+    <string name="register_hint_default_code">+998 90 123 45 67</string>
     <string name="register_title_your_phone">Ваш телефон</string>
     <string name="register_toast_enter_phone">Введите номер телефона</string>
     <string name="settings_hint_input_name">Имя</string>

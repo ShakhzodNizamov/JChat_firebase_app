@@ -2,6 +2,7 @@ package uz.jagito.jchat
 
 import android.content.pm.PackageManager
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import androidx.core.content.ContextCompat
@@ -39,10 +40,14 @@ class MainActivity : AppCompatActivity() {
 
     private fun initFunc() {
         setSupportActionBar(mToolbar)
+        println("ppp 1")
+        Log.d("pppp","1")
         if (AUTH.currentUser != null) {
+            Log.d("pppp","2")
             mAppDrawer.create()
             replaceFragment(MainListFragment(), false)
         } else {
+            Log.d("pppp","3")
             replaceFragment(EnterPhoneNumberFragment(),false)
         }
     }
